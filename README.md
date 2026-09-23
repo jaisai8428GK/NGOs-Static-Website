@@ -1,4 +1,4 @@
-# Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-
+# NGO-static-Website-HTML-CSS-JAVASCRIPT-
 
 Defining this repository is tricky. I hope you like it and if you can improve a component leave me an issue.
 
