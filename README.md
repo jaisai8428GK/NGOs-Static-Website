@@ -8,7 +8,7 @@ This project aims at being a complete, end-to-end solution for the functioning, 
 
 The intent of this project is to provide an efficient tool from the persective of the 5 different types of users: Donors, Volunteers, Fundraisers ,poor and the needy ones and the Management.
 
-Visit the website https://shikha12264.github.io/Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-/
+Visit the website https:
 
  (NGO’s website)	
 1.         Home Page	 			         2. About Us Page
